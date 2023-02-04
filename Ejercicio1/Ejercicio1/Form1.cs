@@ -11,7 +11,7 @@ using System.Windows.Forms;
 namespace Ejercicio1
 {
 
-    public partial class Form1 : Form
+    public partial class Form1 : Form //Erick Rodriguez
     {
 
         public Form1()
